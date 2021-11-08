@@ -23,9 +23,9 @@ Topics I've been learning:
 - Natural language processing
 
 Things to learn/ get better at:
-[] Docker
-[] Apache Kafka
-[] Kubernetes / Cloud deploying
+- [ ] Docker
+- [ ] Apache Kafka
+- [ ] Kubernetes / Cloud deploying
 
 <!---
 HaberkaArkadiusz/HaberkaArkadiusz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
